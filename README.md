@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhavmane09
-- 👀 I’m interested in Web Development, Backend Development
-- 🌱 I’m currently learning MERN Stak
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in Web Development, Backend Development.
+- 🌱 I’m currently learning DSA.
+- 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me 📧 - vaibhavmane9640@gmail.com
 
 <!---
