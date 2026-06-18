@@ -25,8 +25,8 @@
 - Shell Scripting
 
 📫 Connect With Me
-- LinkedIn: <your-linkedin>
-- Email: <your-email>
+- LinkedIn: www.linkedin.com/in/the-vaibhav-mane
+- Email: vaibhavmane9640@gmail.com
 
 ⚡ Fun Fact
 I love automating repetitive tasks and building reliable infrastructure.
